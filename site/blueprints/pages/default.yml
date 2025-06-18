@@ -1,0 +1,13 @@
+title: Standard
+icon: paragraph
+
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Veröffentlicht
+
+tabs:
+  content: tabs/blocks
+  media: tabs/media
+  meta: tabs/meta/site
